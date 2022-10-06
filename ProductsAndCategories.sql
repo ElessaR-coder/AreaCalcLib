@@ -4,7 +4,7 @@
 )
 
 INSERT INTO Products VALUES
-(1, N'Хлеб'),(2, N'Чай'),(3, N'Кофе'),(4, N'Молоко'),(5, N'Мясо'),(6, N'Пельмени');
+(1, N'Хлеб'),(2, N'Чай'),(3, N'Кофе'),(4, N'Молоко'),(5, N'Мясо'),(6, N'Пельмени'),(6, N'Пельмени');
 
 CREATE TABLE Categories(
 	[Id]    INT     PRIMARY KEY NOT NULL,
