@@ -12,7 +12,7 @@ CREATE TABLE Categories(
 )
 
 INSERT INTO Categories VALUES
-(1, N'Напитки'),(2, N'Мясное изделие'),(3, N'Рыбопродукты'),(4, N'Хлебобулочные изделия'),(5, N'Тесто');
+(1, N'Напитки'),(2, N'Мясное изделие'),(3, N'Рыбопродукты'),(4, N'Хлебобулочные изделия'),(5, N'Тесто'),(6, N'Консервы');
 
 CREATE TABLE ProductCategories(
     [ProductId]     INT           FOREIGN KEY REFERENCES Products(Id) NOT NULL,
