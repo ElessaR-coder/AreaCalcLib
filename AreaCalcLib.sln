@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalcLib", "AreaCalcLib.csproj", "{2135C27B-5457-4B66-B65D-9F5A5FC0941C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalcLibTests", "..\AreaCalcLibTests1\AreaCalcLibTests.csproj", "{868D5130-030D-4903-B342-4CEF5B832E44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalcLibTests", "G:\!С# +Unity\AreaCalcLib\AreaCalcLibTests\AreaCalcLibTests.csproj", "{868D5130-030D-4903-B342-4CEF5B832E44}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E06C8C80-DE2D-4760-BA29-2B10CF08B0DD}"
 	ProjectSection(SolutionItems) = preProject
